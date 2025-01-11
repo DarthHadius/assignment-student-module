@@ -17,7 +17,7 @@ import { StudentsModule } from './students/students.module';
       autoLoadEntities: true,
       synchronize: true,
 
-    }),
+    }),   
     StudentsModule
 
   ],
